@@ -7,10 +7,12 @@ I then decided to recode the same game on Unity for fun and learning purposes.
 
 # Goal 
 It's a small game where you are given a number of tiles of different colors,
-your goal is to recolor all of them in the same color.
+your goal is to recolor all of them in the same color in a limited amount of choices*.
 
 To do that you are able to change the color of the tile on the top left corner by clicking on any tile that has a different color.
 By doing this all the tiles that are neighbors to the top left corner tile and have the same color  will then be recolored.
+
+The number of "moves" left is indicated by the number located a the bottom of the game.
 
 Neighbors here only include:
 * top
