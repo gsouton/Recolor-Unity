@@ -1,0 +1,15 @@
+
+{
+    "colors":
+    [
+        {"name":"PurpleNeon", "hex":"C852FF", "rgb":[200,82,255]},
+        {"name":"NeonYellow", "hex":"", "rgb":[255, 255, 1]},
+        {"name":"FlashyPink", "hex":"FF43FA", "rgb":[255,67,250]},
+        {"name":"NeonCyan", "hex":"01FFFF", "rgb":[1,255,255]},
+        {"name":"NeonGreen", "hex":"49DEB2", "rgb":[73,222,178]},
+        {"name":"OtherPurple", "hex":"9D72FF", "rgb":[157,114,255]}
+
+
+    ]
+}
+
