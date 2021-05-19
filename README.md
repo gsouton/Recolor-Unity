@@ -1,7 +1,6 @@
 # Recolor
 It was a university project given to us as introduction to programming and different tools,
-link to C project.
-I decided to recode the same game on Unity for fun and learning purposes.
+I then decided to recode the same game on Unity for fun and learning purposes.
 
 ![image](https://user-images.githubusercontent.com/57765813/118865193-01115e80-b8e1-11eb-89f8-dc55333597d5.png)
 
