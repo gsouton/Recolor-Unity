@@ -9,7 +9,7 @@ UIElementsSchema/
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
-
+Backup/
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
 
@@ -56,7 +56,6 @@ sysinfo.txt
 
 # Builds
 *.apk
-*.unitypackage
 
 # Crashlytics generated file
 crashlytics-build.properties
